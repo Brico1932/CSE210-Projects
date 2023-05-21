@@ -1,0 +1,3 @@
+Attend Church;1;Go to church every week;25;True;
+Scripture study;2;Study for 10 min every day;50;False;
+Attend the Temple;3;Do one ordinance in the temple;75;False;
